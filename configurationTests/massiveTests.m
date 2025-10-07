@@ -205,7 +205,7 @@ fprintf('The average result was %0.4f\n', mean);
 stds = std(statistics);
 fprintf('The mean deviation is %0.4f\n', stds);
 
-%% Network designed for the first published article
+%% Network designed
 % Training
 clear
 clc
@@ -226,7 +226,7 @@ reps = 10;
 % Clean up the workspace
 clearvars dir test_labels train_labels ranges reps
 
-%% Network designed for the first published article
+%% Network designed
 % Analysis of the results
 close all
 % clear
@@ -250,7 +250,7 @@ fprintf(['The best result was in iteration %d with a value ' ...
 mean = mean(statistics);
 fprintf('The average result was %0.4f\n', mean);
 
-%% Network designed for the first published article: only three blocks
+%% Network designed: only three blocks
 % Analysis of the results
 close all
 clear
