@@ -123,4 +123,5 @@ Use the MATLAB script `massiveTests.m` to train and compute performance metrics 
 
 ## Reference
 
-This code accompanies the study **Analysis and Optimization of a Deep Neural Network for Pattern Recognition**.
+This code accompanies the study **Optimized CNN Architectures for Real-Time
+Monitoring of Fin Whale Acoustic Activity**.
